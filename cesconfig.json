@@ -1,6 +1,6 @@
 {
   "cesVersion": "2.15.0",
-  "projectName": "my-expo-app",
+  "projectName": "campus-stay",
   "packages": [
     {
       "name": "nativewind",
